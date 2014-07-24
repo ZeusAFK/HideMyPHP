@@ -51,56 +51,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Addresses.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Addresses.Designer.cs">
-      <DependentUpon>Addresses.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Converter.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Converter.Designer.cs">
-      <DependentUpon>Converter.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frm_AddSkill.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_AddSkill.designer.cs">
-      <DependentUpon>frm_AddSkill.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Functions.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Functions.designer.cs">
-      <DependentUpon>Functions.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Methods.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Methods.Designer.cs">
-      <DependentUpon>Methods.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Skills.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Skills.Designer.cs">
-      <DependentUpon>Skills.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Variables.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Variables.Designer.cs">
-      <DependentUpon>Variables.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

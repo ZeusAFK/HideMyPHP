@@ -30,3 +30,11 @@ C:\Users\Kurokami\Documents\Visual Studio 2012\Projects\HideMyPHP\HideMyPHP\obj\
 C:\Users\Kurokami\Documents\Visual Studio 2012\Projects\HideMyPHP\HideMyPHP\obj\x86\Release\HideMyPHP.exe
 C:\Users\Kurokami\Documents\Visual Studio 2012\Projects\HideMyPHP\HideMyPHP\obj\x86\Release\HideMyPHP.pdb
 C:\Users\Kurokami\Documents\Visual Studio 2012\Projects\HideMyPHP\HideMyPHP\obj\x86\Release\HideMyPHP.csprojResolveAssemblyReference.cache
+C:\Users\Kurokami\Documents\GitHub\HideMyPHP\HideMyPHP\bin\Release\HideMyPHP.exe
+C:\Users\Kurokami\Documents\GitHub\HideMyPHP\HideMyPHP\bin\Release\HideMyPHP.pdb
+C:\Users\Kurokami\Documents\GitHub\HideMyPHP\HideMyPHP\bin\Release\zlib.net.dll
+C:\Users\Kurokami\Documents\GitHub\HideMyPHP\HideMyPHP\obj\x86\Release\HideMyPHP.Form1.resources
+C:\Users\Kurokami\Documents\GitHub\HideMyPHP\HideMyPHP\obj\x86\Release\HideMyPHP.Properties.Resources.resources
+C:\Users\Kurokami\Documents\GitHub\HideMyPHP\HideMyPHP\obj\x86\Release\HideMyPHP.csproj.GenerateResource.Cache
+C:\Users\Kurokami\Documents\GitHub\HideMyPHP\HideMyPHP\obj\x86\Release\HideMyPHP.exe
+C:\Users\Kurokami\Documents\GitHub\HideMyPHP\HideMyPHP\obj\x86\Release\HideMyPHP.pdb
